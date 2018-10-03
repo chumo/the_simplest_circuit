@@ -1,6 +1,8 @@
 The_simplest_circuit
 ====================
 
+Check this page live at http://chumo.github.io/the_simplest_circuit/the_simplest_circuit.html
+
 A simple page showing the simplest conceivable electrical circuit, consisting in a DC battery, a light bulb and a switch. The interactivity is provided by D3.js.
 
 Enjoy!
